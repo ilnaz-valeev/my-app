@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+/* светлая тема */
+body.light {
+  background-color: white;
+  color: black;
+}
+
+/* темная тема */
+body.dark {
+  background-color: black;
+  color: white;
+}
